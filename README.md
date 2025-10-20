@@ -54,7 +54,7 @@ The goal of this project is to analyze video game sales data to determine:
 
 ---
 
-## View Project: [GitHub Repository](https://github.com/HyrumDev94/video-game-sales-analysis/blob/main/notebook%20(1).ipynb)
+## View Project: [Notebook](https://github.com/HyrumDev94/video-game-sales-analysis/blob/main/notebook%20(1).ipynb)
 
 
 ## How to Run
