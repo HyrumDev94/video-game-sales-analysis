@@ -66,3 +66,10 @@ The goal of this project is to analyze video game sales data to determine:
 <img width="978" height="746" alt="Screenshot 2025-10-20 at 2 09 45 PM" src="https://github.com/user-attachments/assets/a0c05099-91b2-4bcc-ad60-8e1789da8311" />
 <img width="1060" height="587" alt="Screenshot 2025-10-20 at 2 10 21 PM" src="https://github.com/user-attachments/assets/7a61dc27-2977-40ed-9fcd-b51046986a8a" />
 <img width="977" height="499" alt="Screenshot 2025-10-20 at 2 10 58 PM" src="https://github.com/user-attachments/assets/ec58242e-282c-444e-a100-157dcb97616a" />
+
+## Future Improvements
+
+- Update the dataset to include more recent platforms and release years for ongoing trend analysis.  
+- Incorporate genre clustering using K-Means to identify emerging categories or underperforming markets.  
+- Add interactive visualizations (e.g., Plotly or Tableau) to explore sales by region, genre, and publisher dynamically.  
+- Combine with external data sources (e.g., Metacritic scores) to examine the relationship between reviews and sales.
