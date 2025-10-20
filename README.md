@@ -62,3 +62,7 @@ The goal of this project is to analyze video game sales data to determine:
 1. Clone the repository:  
    ```bash
    git clone https://github.com/HyrumDev94/video-game-sales-analysis.git
+
+<img width="978" height="746" alt="Screenshot 2025-10-20 at 2 09 45 PM" src="https://github.com/user-attachments/assets/a0c05099-91b2-4bcc-ad60-8e1789da8311" />
+<img width="1060" height="587" alt="Screenshot 2025-10-20 at 2 10 21 PM" src="https://github.com/user-attachments/assets/7a61dc27-2977-40ed-9fcd-b51046986a8a" />
+<img width="977" height="499" alt="Screenshot 2025-10-20 at 2 10 58 PM" src="https://github.com/user-attachments/assets/ec58242e-282c-444e-a100-157dcb97616a" />
