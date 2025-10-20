@@ -54,7 +54,7 @@ The goal of this project is to analyze video game sales data to determine:
 
 ---
 
-## ** View Project:** [GitHub Repository](https://github.com/HyrumDev94/video-game-sales-analysis)
+## View Project: [GitHub Repository](https://github.com/HyrumDev94/video-game-sales-analysis)
 
 
 ## How to Run
